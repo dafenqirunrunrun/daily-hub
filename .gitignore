@@ -1,0 +1,15 @@
+node_modules
+dist
+dist-electron
+release
+.vite
+*.tsbuildinfo
+*.log
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+test-results
+playwright-report
+tmp-*.png
+.env
+.env.*
